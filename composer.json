@@ -1,0 +1,19 @@
+{
+    "name": "ertomy/authlog",
+    "description": "paquete de Laravel para guardar un log de accesos de los usuarios",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Ertomy\\LaravelAuthlog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tomás J. Rodríguez",
+            "email": "ertomy@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
